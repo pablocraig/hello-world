@@ -1,0 +1,2 @@
+docker pull \
+    us-central1-docker.pkg.dev/qwiklabs-gcp-01-975f26a383c7/quickstart-docker-repo/quickstart-image:tag1
